@@ -26,4 +26,7 @@ describe Exercise do
       Exercise.even_fibonacci(35).must_equal 4_613_732
     end
   end
+
+  
 end
+
